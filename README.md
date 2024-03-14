@@ -7,6 +7,6 @@ As a self-motivated, dedicated, and hardworking student, I am passionate about g
 - Tools & Frameworks: Visual Studio Code, Visual Studio, PyCharm Community,Eclipse IDE , IntelliJ,Flutter 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ishan_Umayangana-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lakpahana/)](www.linkedin.com/in/ishan-umayangana/)
-[![Gmail Badge](https://img.shields.io/badge/-ishanumayangana111@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:agslakpahana@gmail.com)](mailto:ishanumayangana111@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Ishan_Umayangana-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ishan-umayangana/)](https://linkedin.com/in/ishan-umayangana/)
+[![Gmail Badge](https://img.shields.io/badge/-ishanumayangana111@gmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishanumayangana111@gmail.com)](mailto:ishanumayangana111@gmail.com)
 
