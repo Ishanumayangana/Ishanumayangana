@@ -2,7 +2,7 @@
 
 As a self-motivated, dedicated, and hardworking student, I am passionate about gaining real-time experience in software engineering. My goal is to share and acquire knowledge, continually enhancing my skills and productivity. I thrive on implementing ideas into reality, always approaching learning with an open mindset. Leveraging my education and existing abilities, I am committed to contributing to a company’s productivity and reputation while further enriching my own experiences. My ultimate aim is to create high-quality solutions that drive success.
 
-- Programming Languages: JavaScript, Java, Python, C, C#,Kotlin , Linux, Assembly 
+- Programming Languages: JavaScript, Java, Python, C, C#,Kotlin, Dart,Linux, Assembly 
 - Web Technologies: HTML5, CSS3, React.js, Node.js,Spring Boot,Microservices
 - Tools & Frameworks: Visual Studio Code, Visual Studio, PyCharm Community,Eclipse IDE , IntelliJ,Flutter 
 
