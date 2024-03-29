@@ -17,7 +17,7 @@
 
 - Programming Languages: JavaScript, Java, Python, C, C#,Kotlin, Dart,Linux, Assembly 
 - Web Technologies: HTML5, CSS3, React.js, Node.js,Spring Boot,Microservices
-- Tools & Frameworks: Visual Studio Code, Visual Studio, PyCharm Community,Eclipse IDE , IntelliJ,Flutter
+- Tools & Frameworks: Visual Studio Code, Visual Studio, PyCharm Community,Eclipse IDE , IntelliJ,Flutter,Figma
   
 </h3>
 <p align="left">
