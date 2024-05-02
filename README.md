@@ -2,10 +2,7 @@
 <h3 align="center"><b>3rd Year Computer Engineering Undergraduate </b> at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3
 <br>
 
-<div align="center" style="margin-bottom:200px">
- <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Ishanumayangana&theme=radical&show_icons=true" />
- <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ishanumayangana&layout=compact&theme=radical" />
-</div>
+
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
