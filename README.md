@@ -7,15 +7,56 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 <br>
 
-<h3 align="left">As a self-motivated, dedicated, and hardworking student, I am passionate about gaining real-time experience in software engineering. My goal is to share and acquire knowledge, continually enhancing my skills and productivity. I thrive on implementing ideas into reality, always approaching learning with an open mindset. Leveraging my education and existing abilities, I am committed to contributing to a company’s productivity and reputation while further enriching my own experiences. My ultimate aim is to create high-quality solutions that drive success.
+<h3 align="left"> 
+<h2>About Me 👨‍💻</h2>
 
+<br>
+I  deep interest in Data Science, Artificial Intelligence, and Machine Learning.
+With hands-on experience as a Data Science Intern, I strive to transform innovative ideas into impactful realities.
 <br>
 <br>
 
-- Programming Languages: JavaScript, Java, Python, C, C#,Kotlin, Dart,Linux, Assembly 
-- Web Technologies: HTML5, CSS3, React.js, Node.js,Spring Boot,Microservices
-- Tools & Frameworks: Visual Studio Code, Visual Studio, PyCharm Community,Eclipse IDE , IntelliJ,Flutter,Figma
-  
+<h2>My Vision 🌟</h2>
+
+<br>
+I am committed to developing high-quality, scalable solutions that enhance productivity and deliver measurable value.
+<br>
+<br>
+
+<h2>Skills & Expertise 🚀</h2>
+<br>
+<h3>Programming Languages:</h3> Python, R, Java, C++, C, C#, Kotlin, Dart
+<br>
+<h3>Web Technologies:</h3> HTML5, CSS3, React.js, Node.js, Spring Boot, Microservices
+<br> 
+<h3>Tools & Frameworks:</h3> Tableau, Power BI, SQL, NumPy, Pandas, TensorFlow, Visual Studio Code, IntelliJ, PyCharm, Flutter, Figma
+<br> 
+
+<h3>Specializations:</h3> 
+<br>
+Machine Learning Applications 
+<br>
+Recommendation Systems 
+<br>
+Predictive Analytics
+<br>
+Artificial Intelligence Algorithms
+<br>
+
+<h2>Learning Path 📚</h2>
+
+Comprehensive Data Science Knowledge
+<br>
+Advanced AI and ML Techniques 
+<br>
+Data Visualization Mastery 
+<br>
+
+<h2>Let’s Collaborate 🤝</h2>
+
+I am always excited to connect with like-minded professionals and work on projects that inspire creativity and innovation.
+<br>
+
 </h3>
 <p align="left">
 </p>
