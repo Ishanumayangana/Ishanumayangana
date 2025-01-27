@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ishan Umayangana</h1>
-<h3 align="center"><b>3rd Year Computer Engineering Undergraduate </b> at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3
+<h2 align="center">Data Scientist,AI/ML Enthusiast</h2>
+
+<h3 align="center"><b>4th Year Computer Engineering Undergraduate </b> at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3
 <br>
 
 
