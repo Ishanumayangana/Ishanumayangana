@@ -13,7 +13,7 @@
 <h2>About Me 👨‍💻</h2>
 
 <br>
-I  deep interest in Data Science, Artificial Intelligence, and Machine Learning.
+I  deep interest in Data Science, Artificial Intelligence, Machine Learning and Data Analysist.
 With hands-on experience as a Data Science Intern, I strive to transform innovative ideas into impactful realities.
 <br>
 <br>
