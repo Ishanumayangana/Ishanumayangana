@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **Computer Engineering undergraduate** with a deep interest in **Data Science, Artificial Intelligence, and Machine Learning**.  
+I’m a passionate **Computer Engineering Fresh Graduate** with a deep interest in **Data Science, Artificial Intelligence, and Machine Learning**.  
 I enjoy exploring how intelligent systems can solve real-world challenges — from predictive analytics to computer vision and conversational AI.  
 
 Currently, I’m focused on developing **data-driven, scalable, and high-impact AI applications** that make technology smarter and more accessible.  
