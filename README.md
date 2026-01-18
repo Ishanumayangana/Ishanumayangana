@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm <b>Ishan Umayangana</b></h1>
-<h2 align="center">🚀 Data Scientist | AI & ML Engineer | Computer Engineering Undergraduate</h2>
+<h2 align="center">🚀 Data Scientist | AI & ML Engineer </h2>
 
-<h3 align="center">🎓 4th Year | Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
+<h3 align="center">🎓 Fresh Computer Engineering Graduate | Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 <br>
 
 <p align="center">
