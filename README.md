@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me  
 
-I’m a passionate **Computer Engineering Fresh Graduate** with a deep interest in **Data Science, Artificial Intelligence, and Machine Learning**.  
+I’m a passionate **Computer Engineering Graduate** with a deep interest in **Artificial Intelligence, Machine Learning, AI Automation Engineer and Data Scientist**.  
 I enjoy exploring how intelligent systems can solve real-world challenges — from predictive analytics to computer vision and conversational AI.  
 
 Currently, I’m focused on developing **data-driven, scalable, and high-impact AI applications** that make technology smarter and more accessible.  
@@ -35,6 +35,9 @@ Python, R, Java, C++, C#, Kotlin, Dart
 
 ### 🧠 Machine Learning & AI  
 Scikit-learn, TensorFlow, PyTorch, Keras, ML Algorithms, NLP (BERT, GPT, Transformers), Computer Vision (OpenCV, CNNs)  
+
+### 📊 AI Automation Tools 
+n8n, Zapier, LangChain 
 
 ### 📊 Data Visualization & BI  
 Tableau, Power BI, Matplotlib, Seaborn, Plotly, Dash  
